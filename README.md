@@ -1,1 +1,3 @@
 # DynamicLife
+
+![](dynamiclife.gif)
